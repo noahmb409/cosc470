@@ -4,3 +4,7 @@ notebooks/cifar_net.pth
 .ipynb_checkpoints/
 cifar-10-python.tar.gz
 nn/** 
+notebooks/cifar-10-python.tar
+notebooks/cifar-10-batches-py/
+*.tar
+*.tar.gz
